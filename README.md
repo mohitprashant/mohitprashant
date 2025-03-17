@@ -15,6 +15,6 @@ I am currently PhD student at Nanyang Technological University, Singapore. My wo
     <p>
        <a href="https://www.linkedin.com/in/mohit-prashant-000900171/"><img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn Badge"></a> 
        <a href="https://mohitprashant.github.io"><img src="https://img.shields.io/badge/-My_Website-red" alt="Website Badge"></a>
-       <a href="mohit010@e.ntu.edu.sg"><img src="https://img.shields.io/badge/-Email-green" alt="Email Badge"></a>
-      <a href="18mohitp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-yellow" alt="Email Badge"></a>
+       <a href="mailto:mohit010@e.ntu.edu.sg"><img src="https://img.shields.io/badge/-Email-green" alt="Email Badge"></a>
+      <a href="mailto:18mohitp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-yellow" alt="Email Badge"></a>
    </p>
