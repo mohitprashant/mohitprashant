@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋 
 
 #### A coffee enthusiast by day ☼ and an AI researcher by night ☾
 
@@ -9,6 +9,7 @@ I am currently PhD student at Nanyang Technological University, Singapore. My wo
 - ⚙️ I use daily: `Python3`, `C++`, `TensorFlow`, `PyTorch`, `Java`
 - 🌍 I'm mostly active within the **ML Research Subreddit**
 - 💬 `ping` me about **research ideas**, **RL agent development**, **safe ML training/verification**, **hot takes on DnD5e**
+- :collision: Currently updating my website and project repositories, `Please Hang Tight`
 
 
 <h2> Contact Me @ </h2>
