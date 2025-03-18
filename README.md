@@ -2,10 +2,11 @@
 
 #### A coffee enthusiast by day ☼ and an AI researcher by night ☾
 
-I am currently PhD student at Nanyang Technological University, Singapore. My work is focused on machine learning safety and probabilistic guarantees for reinforcement learning using the PAC framework. Feel free to visit my website below for some updates on project work, research ideas that I'm currently interested in and general info on what I'm up to.
+I am currently PhD student at Nanyang Technological University, Singapore. My work is focused on machine learning safety and probabilistic guarantees for reinforcement learning using the PAC framework. Feel free to visit my website below for some updates on project work, research ideas that I'm currently following through on and general info on what I'm up to. 
 
 As a sidenote, I enjoy competitive programming in my free time and I have a fondness for applying learning-based techniques to automate and discover solution strategies/algorithms to game environments.
 
+If you're interested in collaboration or want to raise a query, feel free to shoot a message on any of my socials below. I'll get back to you as soon as I can.
 
 
 - ⚙️ I use daily: `Python3`, `C++`, `TensorFlow`, `PyTorch`, `Java`
